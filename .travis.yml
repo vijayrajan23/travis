@@ -15,7 +15,7 @@ deploy:
   region: "ap-south-1"
   app: "Nila"
   env: "Nila-env"
-  bucket_name: "elasticbeanstalk-ap-south-1-907225840730"
+  bucket_name: "elasticbeanstalk-ap-south-1-636256285101"
   bucket_path: "Nila"
   on:
     branch: master
